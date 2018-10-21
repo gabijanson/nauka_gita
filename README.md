@@ -29,3 +29,5 @@ Nowa lista zadan:
 # Nowa sekcja
 
 * nauka commitowania na github 
+
+# Zmiany z przegladarki 
