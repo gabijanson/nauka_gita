@@ -19,3 +19,9 @@ Mozna tworzyc listy:
 Lista zadan:
 - [x] zadanie 1
 - [ ] zadanie 2
+
+Nowa lista zadan:
+- [x] zadanie 1.1
+- [x] zadanie 1.3
+
+**KONIEC LISTY** 
