@@ -24,4 +24,8 @@ Nowa lista zadan:
 - [x] zadanie 1.1
 - [x] zadanie 1.3
 
-**KONIEC LISTY** 
+**KONIEC LISTY**
+
+# Nowa sekcja
+
+* nauka commitowania na github 
